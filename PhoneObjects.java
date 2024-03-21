@@ -20,6 +20,11 @@ public class PhoneObjects {
             phone3.materialsMadeOutOf("broken glass");
             phone4.materialsMadeOutOf("Diamond");
 
+            phone1.starRating("3 out of 5 stars");
+            phone2.starRating("2 out of 5 stars");
+            phone3.starRating("5 out of 5 stars");
+            phone4.starRating("4.9 out of 4 stars");
+            
                 System.out.println(phone1);//tells to print out phone 1
                 System.out.println(phone2);
                 System.out.println(phone3);
