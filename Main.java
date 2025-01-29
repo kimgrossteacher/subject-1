@@ -4,9 +4,9 @@
 
 public class Main {
 
-
-first_name = input(" Colton ")
-last_name = input(" Dean ")
+public static void main(String[] args){
+String first_name = (" Colton ");
+String last_name =(" Dean ");
 year = input(" 11th Juner ")
 school_name = input(" IHLA ") 
 
@@ -20,6 +20,6 @@ with open(" student.txt", "w") as file:
 
 // Step 3: Confirming that the information has been saved
 print("Your information has been saved to student.txt.")
-
+}
 
 }
