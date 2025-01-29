@@ -7,7 +7,7 @@ public class Main {
 public static void main(String[] args){
 String first_name = (" Colton ");
 String last_name =(" Dean ");
-year = input(" 11th Juner ")
+String year = (" 11th Juner ");
 school_name = input(" IHLA ") 
 
 // Open the file in write mode, will create it if it doesn't exist
